@@ -16,4 +16,9 @@ Solutions to Google Tech Div Guide Problems
   <td><a href = "https://codingbat.com/prob/p117334">String Splotion</a></td>
   <td><a href = "https://github.com/Nipuni-Wimangsa/TechDivGuide/blob/main/Foundations%20of%20Programming/String%20Splotion/Solution.java">Java</a></td>
   </tr>
+  
+  <tr>
+  <td><a href = "https://codingbat.com/prob/p189576">Max Span</a></td>
+  <td><a href = "https://github.com/Nipuni-Wimangsa/TechDivGuide/blob/main/Foundations%20of%20Programming/Max%20Span/Solution.java">Java</a></td>
+  </tr>
   </table>
