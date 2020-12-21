@@ -21,4 +21,9 @@ Solutions to Google Tech Div Guide Problems
   <td><a href = "https://codingbat.com/prob/p189576">Max Span</a></td>
   <td><a href = "https://github.com/Nipuni-Wimangsa/TechDivGuide/blob/main/Foundations%20of%20Programming/Max%20Span/Solution.java">Java</a></td>
   </tr>
+  
+  <tr>
+  <td><a href = "https://codingbat.com/prob/p192570">Without String</a></td>
+  <td><a href = "https://github.com/Nipuni-Wimangsa/TechDivGuide/blob/main/Foundations%20of%20Programming/WithoutString/withoutString.java">Java</a></td>
+  </tr>
   </table>
