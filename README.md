@@ -31,4 +31,10 @@ Solutions to Google Tech Div Guide Problems
   <td><a href = "https://codingbat.com/prob/p121193">Sum Numbers</a></td>
   <td><a href = "https://github.com/Nipuni-Wimangsa/TechDivGuide/blob/main/Foundations%20of%20Programming/SumNumbers.java">Java</a></td>
   </tr>
+  
+  <tr>
+  <td><a href = "https://codingbat.com/prob/p158767">Sum Numbers</a></td>
+  <td><a href = "https://github.com/Nipuni-Wimangsa/TechDivGuide/blob/main/Foundations%20of%20Programming/CanBalance.java">Java</a></td>
+  </tr>
+ 
   </table>
