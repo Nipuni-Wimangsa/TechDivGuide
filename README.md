@@ -33,8 +33,18 @@ Solutions to Google Tech Div Guide Problems
   </tr>
   
   <tr>
-  <td><a href = "https://codingbat.com/prob/p158767">Sum Numbers</a></td>
+  <td><a href = "https://codingbat.com/prob/p158767">Can Balance</a></td>
   <td><a href = "https://github.com/Nipuni-Wimangsa/TechDivGuide/blob/main/Foundations%20of%20Programming/CanBalance.java">Java</a></td>
+  </tr>
+  
+  <tr>
+  <td><a href = "https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1124/handouts/200%20Assignment%204.pdf">Hangman</a></td>
+  <td><a href = "https://github.com/Nipuni-Wimangsa/TechDivGuide/tree/main/Foundations%20of%20Programming/Hangman">Java</a></td>
+  </tr>
+  
+  <tr>
+  <td><a href = "https://codingbat.com/prob/p148813">Map share</a></td>
+  <td><a href = "https://github.com/Nipuni-Wimangsa/TechDivGuide/blob/main/Foundations%20of%20Programming/Mapshare.java">Java</a></td>
   </tr>
  
   </table>
