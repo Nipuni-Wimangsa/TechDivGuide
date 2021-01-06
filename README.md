@@ -66,5 +66,10 @@ Solutions to Google Tech Div Guide Problems
   <td><a href = "https://codingbat.com/prob/p125327">Word Len</a></td>
   <td><a href = "https://github.com/Nipuni-Wimangsa/TechDivGuide/blob/main/Foundations%20of%20Programming/wordLen.java">Java</a></td>
   </tr>
+  
+  <tr>
+  <td><a href = "https://codingbat.com/prob/p126332">Paris</a></td>
+  <td><a href = "https://github.com/Nipuni-Wimangsa/TechDivGuide/blob/main/Foundations%20of%20Programming/Paris.java">Java</a></td>
+  </tr>
  
   </table>
