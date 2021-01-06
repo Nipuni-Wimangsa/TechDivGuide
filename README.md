@@ -51,5 +51,10 @@ Solutions to Google Tech Div Guide Problems
   <td><a href = "https://codingbat.com/prob/p262890">Sort Array</a></td>
   <td><a href = "https://github.com/Nipuni-Wimangsa/TechDivGuide/blob/main/Foundations%20of%20Programming/SortingArray.java">Java</a></td>
   </tr>
+  
+  <tr>
+  <td><a href = "https://codingbat.com/prob/p294185">Interpreter</a></td>
+  <td><a href = "https://github.com/Nipuni-Wimangsa/TechDivGuide/blob/main/Foundations%20of%20Programming/Interpreter.java">Java</a></td>
+  </tr>
  
   </table>
